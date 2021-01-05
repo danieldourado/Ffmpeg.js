@@ -12,7 +12,7 @@
 
 Remember: [`ffmpeg-asm.js`](https://archive.org/download/ffmpeg_asm/ffmpeg_asm.js)'s credit goes to: https://github.com/bgrins/videoconverter.js
 
-* [audo-plus-canvas-recording.gif](https://cdn.webrtc-experiment.com/images/audo-plus-canvas-recording.gif)
+* [audio-plus-canvas-recording.gif](https://cdn.webrtc-experiment.com/images/audo-plus-canvas-recording.gif)
 
 # File Size?
 
